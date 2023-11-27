@@ -1,4 +1,4 @@
-# recipie_backend
+# port scanner
 # steps
 ## create a environment 
 `python -m venv env` 
@@ -17,5 +17,5 @@
 `python manage.py migrate`
 
 ## starting server 
-`python manage.py runserver 8002`
+`python manage.py runserver 8001`
 
